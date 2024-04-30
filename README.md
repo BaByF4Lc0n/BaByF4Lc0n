@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jirwat Donboran
 =======================================================================================================================================
 
-Software Developer & Ai Developer
----------------------------------
+Software Developer | Ai Developer | Game Developer
+--------------------------------------------------
 
 I'm a student at Nawaminthrachinuthit Suankularb Witiyala Samutprakarn school. I'm 17 years old. I have been studying programming since I was 11 years old.
 
@@ -23,4 +23,4 @@ I'm a student at Nawaminthrachinuthit Suankularb Witiyala Samutprakarn school. I
 
 ### Badges
 
-<a href="https://github.com/ิิBaByF4Lc0n" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ิิBaByF4Lc0n&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/ิิBaByF4Lc0n" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ิิBaByF4Lc0n&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
