@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jirawat Donboran
 =======================================================================================================================================
 
-Software Developer | Ai Developer | Game Developer
+Software Developer & Game Developer
 --------------------------------------------------
 
 I'm a student at Nawaminthrachinuthit Suankularb Witiyala Samutprakarn school. I'm 17 years old. I have been studying programming since I was 11 years old.
